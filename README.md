@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arathikini5&label=Profile views&color=0e75b6&style=flat" alt="arathikini5" /> </p>
 
+<div id = "header" align = "center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "200"/>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arathikini5" alt="arathikini5" /></a> </p>
 
 - 🔭 I'm currently working on **.NET & C#**
