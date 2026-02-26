@@ -4,7 +4,9 @@
   <em>"Learn. Build. Grow."</em>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arathikini5&label=Profile views&color=0e75b6&style=flat" alt="arathikini5" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=arathikini5&label=Profile%20views&color=0e75b6&style=flat&random=123" alt="Profile views" /> 
+</p>
 
 <div id = "header" align = "center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "200"/>
