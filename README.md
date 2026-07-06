@@ -33,7 +33,7 @@
 
 <h3 align="left">🛠 Tech Stack :</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,cs,dotnet,c,java,spring,py,aws,docker,firebase,git,mysql,postman&perline=16" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,cs,dotnet,c,java,spring,py,aws,docker,firebase,git,mysql,postman&perline=20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
 </p>
