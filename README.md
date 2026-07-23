@@ -4,36 +4,69 @@
   <em>"Learn. Build. Grow."</em>
 </p>
 
+---
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=arathikini5&label=Profile%20views&color=0e75b6&style=flat&random=123" alt="Profile views" /> 
 </p>
 
-<div id = "header" align = "center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width = "250"/>
-</div>
+I'm a Computer Science graduate driven by curiosity and a love for building software. Whether it's debugging a tricky issue, designing a clean solution, or learning a new technology, I enjoy the process as much as the outcome.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arathikini5" alt="arathikini5" /></a> </p>
+Building software at Kambala Solutions with .NET and C#. Outside of my day-to-day work, I'm exploring AWS, DevOps, and the latest developments in Agentic AI.
 
-<h3 align="left">👩‍💻 About Me</h3>
+> 💡 **Fun Fact:** I enjoy solving bugs more than I admit. 🕵️‍♀️🔍
 
-- 🔭 I'm currently working on **.NET & C#**
+<h3 align="left">👩‍💻 Beyond Code </h3>
 
-- 🌱 I'm currently learning **ASP.NET Core, AWS Cloud Fundamentals**
+- 🧘 Practicing yoga to stay balanced and focused.
+- 🏊 Swimming to stay active and energized.
+- 🎨 Expressing creativity through art.
 
-- 📫 How to reach me **arathikini7326@gmail.com**
-
-- ⚡ Fun fact **I enjoy solving bugs more than I admit 🕵🔍**
-
-<h3 align="left">Connect with me :</h3>
+---
+<h3 align="left">🌐 Find Me Around the Web </h3>
 <p align="left">
-<a href="https://github.com/arathikini5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arathikini5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arathi-kini-80333621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arathi-kini-80333621b" height="30" width="40" /></a>
-<a href="https://twitter.com/kini_arathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kini_arathi" height="30" width="40" /></a>
+<a href="https://github.com/arathikini5"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+<a href="mailto:arathikini7326@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/arathi-kini-80333621b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/kini_arathi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
-<h3 align="left">🛠 Tech Stack :</h3>
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,cs,dotnet,c,java,spring,py,aws,docker,firebase,git,mysql,postman&perline=20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
+---
+<h3 align="left">🛠 Tech Stack </h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
+</p>
+
+---
+
+<h3 align="left"> 💬 Let's Build, Learn & Connect </h3>
+
+I believe great software is built through curiosity, collaboration, and continuous learning.
+
+Whether you'd like to collaborate, discuss technology, exchange ideas, or simply say hello, I'd love to connect.
+
+📫 **arathikini7326@gmail.com**
+
+<br>
+
+<p align="center">
+Thanks for stopping by! Happy coding! 🚀
 </p>
